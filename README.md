@@ -1,4 +1,7 @@
 # Dust_shoe
+
+![aka dust_shoe](https://github.com/F6ITU/Dust_shoe/blob/main/Pictures/IMG_20241228_170906.jpg)
+
 CNC dust shoe for 80mm spindle motor and 50mm vacuum hose_FreeCad design
 
 Ce projet est destiné à tous ceux qui recherchent un dessin de sabot d'aspiration pour CNC à la fois libre de droits et en source ouverte. 
